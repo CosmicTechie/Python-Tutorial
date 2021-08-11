@@ -3,4 +3,4 @@ This is a python programming tutorial. The file **Python.ipynb** has the code an
 Python is an interpreted, object oriented, general-purpose, high-level programming language. \
 If you like the tutorial notebook, Please Follow and drop a star.
 ## Python is fun.
-<a href="https://www.buymeacoffee.com/cosmictechie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
+<a href="https://www.buymeacoffee.com/cosmictechie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" ></a>
